@@ -1,2 +1,3 @@
 # My-Amazing-Repo
-Creating an amazing repo.
+Creating an amazing repo to demonstrate how to create a new repo.
+And I can make changes locally too...
